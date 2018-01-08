@@ -1,6 +1,7 @@
 # Tidal invariants for compact binaries on quasi-circular orbits
+# Authors: S. R. Dolan,, P. Nolan, A. C. Ottewill, N. Warburton, and B. Wardell
 # Phys. Rev. D 91, 023009 (2015), arXiv:1406.4890
-# Data appears in Table I
+# Published Data appears in Table I
 # Format:
 # r_Omega/M    \Delta\lambda^E_1    \Delta\lambda^E_2    \Delta\lambda^E_3    \Delta\chi
 4.	0.124643083043	-0.120730364659	-0.00391271838453	0.119505617085	0.062059927979
