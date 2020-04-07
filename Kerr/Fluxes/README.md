@@ -1,3 +1,5 @@
+# Gravitational wave for a compact object moving on a circular orbit about a Kerr black hole
+
 This directory contains flux data for a particle on a circular orbit about a Kerr black hole.  In all the data files the format is: r0/M   Edot_inf   Edot_horiz
 
 The geodesic flux data for |a| <= 0.9 was provided by Scott Hughes. These fluxes were calculated for [Phys. Rev. D 90, 084025 (2014)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.90.084025), [arXiv:1404.1819](https://arxiv.org/abs/1404.1819) so please cite this work if you make use of the data.
