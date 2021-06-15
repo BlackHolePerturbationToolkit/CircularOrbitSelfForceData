@@ -1,5 +1,13 @@
 # Local invariants along orbits in Kerr spacetime
 
+### Redshift invariant
+
+| Data property    | Property value                                                                                                      |
+|------------------|---------------------------------------------------------------------------------------------------------------------|
+| Data filename    | red_shiftinvariant.dat                                                                                              |
+| File format      | see file																											 |
+| Reference        | A. G. Shah, J. L. Friedman, T. S. Keidl [arXiv:1207.5595](https://arxiv.org/abs/1207.5595) 						 |
+
 
 ### Spin invariant
 
